@@ -3,7 +3,7 @@
 **SSL là gì ?**
 SSL là một giao thức dùng để mã háo thông tin của người. Mục đích chính của SSL là đảm bảo dữ liệu trao đổi giữa hai bên được bảo mật và không thể bị đọc hoặc can thiệp bởi các bên thứ ba.
 
-Có bao nhiêu cách chứng thực SSL ?
+**Có bao nhiêu cách chứng thực SSL ?**
 Có 4 chứng thực SSL
 + Chứng thực dựa trên chứng chỉ (Certificate-Based Authentication - CA)
 + Chứng thực thông qua tên miền (Domain Validation - DV)
