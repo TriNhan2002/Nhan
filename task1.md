@@ -1,4 +1,4 @@
-SSL: Secure Sockets Layer.
+**SSL: Secure Sockets Layer**.
 
 **SSL là gì ?**
 SSL là một giao thức dùng để mã háo thông tin của người. Mục đích chính của SSL là đảm bảo dữ liệu trao đổi giữa hai bên được bảo mật và không thể bị đọc hoặc can thiệp bởi các bên thứ ba.
